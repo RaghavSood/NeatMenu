@@ -1,4 +1,4 @@
 NeatMenu
 ========
 
-Simple example code for a screen independant game level select menu
+Simple example code for a screen independent game level select menu
